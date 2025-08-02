@@ -51,7 +51,7 @@ useGSAP(()=>{
         <h1 id="para">1+ YEARS EXPERIENCED IN PROJECTS</h1>
         <div className="slider">
 <Card title="ExpressNewsHub" image={va} link="https://github.com/aayushgoyal2503/Backend"/>
-<Card title="SMART AI CHATBOT" image={fw} link="https://personal-chatgpt-w3ps.onrender.com/"/>
+{/* <Card title="SMART AI CHATBOT" image={fw} link="https://personal-chatgpt-w3ps.onrender.com/"/> */}
 <Card title="VIDEO CALLING APPLICATION" image={ise} link="https://webrtc-xfvt.onrender.com/"/>
 <Card title="MovieBox" image={tti} link="https://movie-and-tv-series-searching.onrender.com/"/>
 <Card title="Summarizer Extension" image={br} link="https://github.com/aayushgoyal2503/SummarizerExtension"/>
