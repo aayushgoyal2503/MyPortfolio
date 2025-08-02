@@ -1,5 +1,6 @@
+/* src/components/Card/Card.css */
 .card{
-    width:90%;
+    width: 300px;
     max-width: 400px;
     height: 170px;
     background-color: rgb(20, 26, 31);
@@ -13,7 +14,6 @@
     border-radius: 10px;
     transition: all 0.2s;
     cursor: pointer;
-    flex-shrink: 0;
     padding: 10px;
     
 }
@@ -45,4 +45,8 @@
     background-clip: text;
     color: transparent;
    
+}
+
+a{
+    text-decoration: none;
 }
